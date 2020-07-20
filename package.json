@@ -1,0 +1,24 @@
+{
+  "name": "webscraper-base",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArtoCully/webscraper-base.git"
+  },
+  "author": "arturo cullinane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArtoCully/webscraper-base/issues"
+  },
+  "homepage": "https://github.com/ArtoCully/webscraper-base#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "puppeteer": "^5.2.0"
+  }
+}
